@@ -171,6 +171,10 @@ a {
     border-radius: 7vw;
 }
 
+#particles-js {
+    display: none;
+}
+
 .banner-background {
     height: 100%;
     width: 100%;
@@ -464,7 +468,7 @@ a {
     }
 
     #particles-js {
-        display:contents;
+        display:block;
         width: auto;
         height: 100%;
         width: 100%;
